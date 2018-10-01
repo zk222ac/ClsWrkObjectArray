@@ -21,7 +21,6 @@ namespace ClsWrkObjectArray
                 new Elephant("marcin" , 65), 
                 new Elephant("abs" , 67), 
             };
-            
             // create an object instance of a class : Elephant
 
             //Elephant lyold = new Elephant("lyold" , 600);
